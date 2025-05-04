@@ -1,0 +1,85 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Event Flyer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/event.jpg" alt="Event Image">
+    <h1>Exciting Event 2025</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Event Highlights</h2>
+      <p>Join us for a day full of excitement and fun. Great speakers, workshops, and networking opportunities.</p>
+      <hr>
+    </section>
+
+    <section>
+      <h2>Special Guests</h2>
+      <p>We have invited top-notch experts to speak at the event. Meet influencers from various fields.</p>
+      <hr>
+    </section>
+  </main>
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+/* styles.css */
+body {
+  margin: 0 auto;
+  padding: 50px 0;
+  width: 90vw;
+  min-height: calc(100vh - 100px);
+}
+
+header {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+header img {
+  width: 100%;
+  max-width: 600px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+hr {
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+}
+
+
+** end of undefined **
+
